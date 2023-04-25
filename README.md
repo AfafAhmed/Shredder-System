@@ -27,16 +27,16 @@ https://user-images.githubusercontent.com/77872928/234185506-a8396396-a586-4f4f-
 3. Deployed this POC for Internship(at Ineuro.ai) (as Freasher)
 
 # Requirements
-  Hand Images
-  WebCam
-  OCR
-  Relay
+  -Hand Images
+  -WebCam
+  -OCR
+  -Relay
   
 # Tools and Technologies Used
-  Python
-  Tensorflow Object Detection 1.14 API
-  Tensorflow Object Detection Models
-   Model Used for training and prediction :
+  1. Python
+  2. Tensorflow Object Detection 1.14 API
+  3. Tensorflow Object Detection Models
+  4. Model Used for training and prediction :
       SSD Lite MobileNet V2 COCO
 # Deployment
   The entire solution was deployed as an on prem solution with the required infrastructure and setup done.
